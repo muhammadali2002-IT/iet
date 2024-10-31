@@ -9,7 +9,7 @@
     grid-template-rows: 100px;
 }
 .twelve{
-    background-color: aqua;
+    background-color: blue;
     grid-column: 1/ span 12;
 }
 .eight{
