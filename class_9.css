@@ -14,6 +14,7 @@
 }
 .eight{
     background-color: bisque;
+    border: Solid 5px black;
     grid-column: 5/ span 8;
 }
 .six{
