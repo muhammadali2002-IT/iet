@@ -11,7 +11,7 @@ body{
 
 header{
     grid-area: head;
-    background: purple;
+    background: red;
     text-align: center;
     padding: 2cm;
 }
