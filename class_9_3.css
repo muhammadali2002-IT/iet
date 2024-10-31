@@ -2,5 +2,5 @@ body{
     height: 95vh;
     display: grid;
     grid-template-areas: "header header header header header header" "Menu Menu Main Main Right Right";
-    grid-template-rows: 150px 1fr 150px;
+    grid-template-rows: 150px 1fr 100px;
 }
