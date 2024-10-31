@@ -4,7 +4,7 @@ body{
     grid-template-areas:"head head" "nav main" "footer footer" ;
     grid-template-rows: 150px 1fr 150px;
     grid-template-columns: 150px 1fr;
-    color: yellow;
+    color:Dark brown;
     font-size: 2cm;
     grid-gap: 10px;
 }
