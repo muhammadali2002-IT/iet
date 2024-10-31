@@ -17,7 +17,7 @@
     grid-column: 5/ span 8;
 }
 .six{
-    background-color: lightblue;
+    background-color: darkblue;
     grid-column: 5/ span 6;
 }
 .seven{
